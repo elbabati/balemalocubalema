@@ -1,0 +1,104 @@
+[{
+    "id": 1,
+    "titulo": "Cèrcols en evolució",
+    "srcimg": "https://raw.githubusercontent.com/elbabati/The-Balema-Museum/main/actuals/actual1.jpg",
+    "alt": "Texto alternativo de la imágen",
+    "texto": "Diego Ramírez",
+    "url": "http://www.google.com"
+},
+{
+    "id": 2,
+    "titulo": "Mirallismes esculpits",
+    "srcimg": "https://github.com/elbabati/The-Balema-Museum/blob/main/actuals/actual2.jpg?raw=true/",
+    "alt": "Descripción de la imágen",
+    "texto": "Ariadna Padilla",
+    "url": "http://www.google.com"
+},
+{
+    "id": 3,
+    "titulo": "Món dinàmic",
+    "srcimg": "https://github.com/elbabati/The-Balema-Museum/blob/main/actuals/actual3.jpg?raw=true",
+    "alt": "Descripción de la imágen",
+    "texto": "Ángel Rodríguez",
+    "url": "http://www.google.com"
+},
+{
+    "id": 4,
+    "titulo": "Llum en moviment",
+    "srcimg": "https://github.com/elbabati/The-Balema-Museum/blob/main/actuals/actual4.jpg?raw=true",
+    "alt": "Descripción de la imágen",
+    "texto": "Laura Boston",
+    "url": "http://www.google.com"
+},
+
+{
+    "id": 5,
+    "titulo": "Univers en forma",
+    "srcimg": "https://elbabati.github.io/The-Balema-Museum/Passades/passades1.jpg",
+    "alt": "Texto alternativo de la imágen",
+    "texto": "Eugen Brava",
+    "url": "http://www.google.com"
+},
+{
+    "id": 6,
+    "titulo": "Laberint d'històries",
+    "srcimg": "https://elbabati.github.io/The-Balema-Museum/Passades/passades2.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "Malika Boya",
+    "url": "http://www.google.com"
+},
+{
+    "id": 7,
+    "titulo": "Racons d'imaginació",
+    "srcimg": "https://elbabati.github.io/The-Balema-Museum/Passades/passades3.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "Elena Cavaliren",
+    "url": "http://www.google.com"
+},
+{
+    "id": 8,
+    "titulo": "Caledoiscopi d'emoció",
+    "srcimg": "https://elbabati.github.io/The-Balema-Museum/Passades/passades4.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "Carlos Calafell",
+    "url": "http://www.google.com"
+}, 
+
+{
+    "id": 9,
+    "titulo": "Dimencions esfèriques",
+    "srcimg": "https://elbabati.github.io/The-Balema-Museum/Futures/futura1.png",
+    "alt": "Texto alternativo de la imágen",
+    "texto": "Diego Ramírez",
+    "url": "http://www.google.com"
+},
+{
+    "id": 10,
+    "titulo": "ADN dinàmic",
+    "srcimg": "https://elbabati.github.io/The-Balema-Museum/Futures/futura2.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "Carlor Rigotir",
+    "url": "http://www.google.com"
+},
+{
+    "id":11 ,
+    "titulo": "Ones emocionals",
+    "srcimg": "https://elbabati.github.io/The-Balema-Museum/Futures/futura3.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "Laura Boston",
+    "url": "http://www.google.com"
+},
+{
+    "id": 12,
+    "titulo": "Del no res, a tot",
+    "srcimg": "https://elbabati.github.io/The-Balema-Museum/Futures/futura4.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "Malika Boya",
+    "url": "http://www.google.com"
+}
+
+
+
+
+]
+
